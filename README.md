@@ -1,2 +1,4 @@
 # CS
-Computer Science
+Computer Science 
+
+- Algorithm
